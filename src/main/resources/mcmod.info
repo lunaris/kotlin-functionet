@@ -1,0 +1,16 @@
+[
+{
+  "modid": "functionet",
+  "name": "Functionet",
+  "description": "Functionet",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["lunaris"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
